@@ -1,26 +1,3 @@
-% Create a new figure
-figure;
-
-% Subplot for letter L
-subplot(4,1,1);
-text(0.5, 0.5, 'L', 'Color', 'red', 'FontSize', 36, ...
-    'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle');
-axis off;
-
-% Subplot for letter O
-subplot(4,1,2);
-text(0.5, 0.5, 'O', 'Color', 'red', 'FontSize', 36, ...
-    'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle');
-axis off;
-
-% Subplot for letter V
-subplot(4,1,3);
-text(0.5, 0.5, 'V', 'Color', 'red', 'FontSize', 36, ...
-    'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle');
-axis off;
-
-% Subplot for letter E
-subplot(4,1,4);
-text(0.5, 0.5, 'E', 'Color', 'red', 'FontSize', 36, ...
-    'HorizontalAlignment', 'center', 'VerticalAlignment', 'middle');
-axis off;
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b49595cae0517628ae795e5de74a6852b0fd3d8e92da08fe9fa6bf6cfb0870a
+size 756
